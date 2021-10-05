@@ -8,4 +8,6 @@
    Сборка или установка.
 4. На данный момент использую сборщик MAven;
 5. Этот репозиторий создан не для широкого использования, а в учебных целях;
-6. Контакты. Мой GIT:
+6. Контакты. Мой GIT: git@github.com:as310788/job4j_elementary.git
+   1.1. Что такое import [#504773 #211872]
+   [What is it import] (https://github.com/as310788/job4j_elementary/blob/master/images/import.png)
