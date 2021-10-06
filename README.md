@@ -13,3 +13,5 @@
    [What is it import](https://github.com/as310788/job4j_elementary/blob/master/images/import.png)
 7. 1.2. Входные данные в тесте [#297750]
    [Thri test](https://github.com/as310788/job4j_elementary/blob/master/images/test.png)
+8. 2. Тесты для задачи "идеальный вес" [#159458]
+[test fit](https://github.com/as310788/job4j_elementary/blob/master/images/testa.png)
