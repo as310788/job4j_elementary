@@ -17,3 +17,5 @@
 [test fit](https://github.com/as310788/job4j_elementary/blob/master/images/testa.png)
 9. 3. Тесты для определения расстояния между точками. [#159459]
 [test point](https://github.com/as310788/job4j_elementary/blob/master/images/test%20point.png)
+10. 4. Тесты для стороны прямоугольника. [#159460]
+[test sqa](https://github.com/as310788/job4j_elementary/blob/master/images/test%20sqa.png)
