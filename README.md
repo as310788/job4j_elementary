@@ -21,3 +21,5 @@
 [test sqa](https://github.com/as310788/job4j_elementary/blob/master/images/test%20sqa.png)
 11. 0. Операции сравнения [#235631]
 [LIKEN](https://github.com/as310788/job4j_elementary/blob/master/images/liken.png)
+12. 4.1. Операторы ветвлений [#3611]
+[operator vetvleni](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9.png)
