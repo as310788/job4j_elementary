@@ -27,5 +27,5 @@
 [cinema 18](https://github.com/as310788/job4j_elementary/blob/master/images/cinema.png)
 14. 4.1.1. Операторы сравнения в String. [#237406]
 [operator string](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20String.png)
-15. 4.1.2. В этом уроке мы проходили программу "Глупый бот",  так же писали тест на него.
-[test Dummy bot](https://github.com/as310788/job4j_elementary/blob/master/images/test%20dummybot.png)
+15. 4.1.2. В этом уроке мы создавали "Глупый бот",  использовали проверочные тесты
+[Dummy bot test](https://github.com/as310788/job4j_elementary/blob/master/images/test%20dummybot.png)
