@@ -30,3 +30,5 @@
 15. 
 16. 4.1.2. Глупый бот [#31323 #215037] специально днлаю для бота
 [BOT TEST](https://github.com/as310788/job4j_elementary/blob/master/images/BOTTEST.png)
+17. 4.2. Тернарное сравнение [#189] писали тесты на тернарное уровняние
+[test ternar](https://github.com/as310788/job4j_elementary/blob/master/images/ternar%20test.png)
