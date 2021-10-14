@@ -3,14 +3,11 @@ package ru.job4j.condition;
 public class Max {
 
     public static int max(int left, int right) {
-        boolean condition = true;
-        int result = condition ? right : left;
-        return result;
-
+        return left > right ? left : right;
     }
 
     public static void main(String[] args) {
-        int rsl = Max.max(1, 2);
+        int rsl = Max.max(100, 20);
         System.out.println(rsl);
     }
 }
