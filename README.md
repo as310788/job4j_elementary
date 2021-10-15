@@ -30,6 +30,7 @@
 15. 
 16. 4.1.2. Глупый бот [#31323 #215037] специально днлаю для бота
 [BOT TEST](https://github.com/as310788/job4j_elementary/blob/master/images/BOTTEST.png)
-17. 
-В тернарном сравнение сравнивали результаты райт и лефт4.2. Тернарное сравнение [#189 #215964]
+17.В тернарном сравнение сравнивали результаты райт и лефт4.2. Тернарное сравнение [#189 #215964]
 [ternarnoe sravnenie](https://github.com/as310788/job4j_elementary/blob/master/images/ternarurav.png)
+17. 4.3.1. Оператор && [#333783] сравнивали переменные типа боллин
+[operator](https://github.com/as310788/job4j_elementary/blob/master/images/games.png)
