@@ -34,3 +34,5 @@
 [ternarnoe sravnenie](https://github.com/as310788/job4j_elementary/blob/master/images/ternarurav.png)
 17. 4.3.1. Оператор && [#333783] сравнивали переменные типа боллин
 [operator](https://github.com/as310788/job4j_elementary/blob/master/images/games.png)
+18. 4.3.2. Оператор || [#333784] оператор || который выводит значение любое труе если есть
+[vivodit operetor](https://github.com/as310788/job4j_elementary/blob/master/images/club.png)
