@@ -36,3 +36,5 @@
 [operator](https://github.com/as310788/job4j_elementary/blob/master/images/games.png)
 18. 4.3.2. Оператор || [#333784] оператор || который выводит значение любое труе если есть
 [vivodit operetor](https://github.com/as310788/job4j_elementary/blob/master/images/club.png)
+19. Здесь мы проходили логичесоке отрицание.
+[logic otric](https://github.com/as310788/job4j_elementary/blob/master/images/logicnot.png)
