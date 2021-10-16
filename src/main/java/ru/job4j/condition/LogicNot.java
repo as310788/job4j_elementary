@@ -11,6 +11,7 @@ public class LogicNot {
     }
 
     public static boolean notEven(int num) {
+
         return !isEven(num);
     }
 
