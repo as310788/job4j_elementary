@@ -6,6 +6,7 @@ public class LogicNot {
     }
 
     public static boolean isPositive(int num) {
+
         return num > 0;
     }
 
