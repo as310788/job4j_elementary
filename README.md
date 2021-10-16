@@ -38,3 +38,5 @@
 [vivodit operetor](https://github.com/as310788/job4j_elementary/blob/master/images/club.png)
 19. Здесь мы проходили логичесоке отрицание.
 [logic otric](https://github.com/as310788/job4j_elementary/blob/master/images/logicnot.png)
+20. 4.3.4. if c return [#333785] УПРОЩЕНИЕ КОРОТКИ КОД
+[shot kod](https://github.com/as310788/job4j_elementary/blob/master/images/shot%20kod.png)
