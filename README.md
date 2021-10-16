@@ -36,7 +36,7 @@
 [operator](https://github.com/as310788/job4j_elementary/blob/master/images/games.png)
 18. 4.3.2. Оператор || [#333784] оператор || который выводит значение любое труе если есть
 [vivodit operetor](https://github.com/as310788/job4j_elementary/blob/master/images/club.png)
-19. Здесь мы проходили логичесоке отрицание.
-[logic otric](https://github.com/as310788/job4j_elementary/blob/master/images/logicnot.png)
-20. 4.3.4. if c return [#333785] УПРОЩЕНИЕ КОРОТКИ КОД
+19. 4.3.4. if c return [#333785] УПРОЩЕНИЕ КОРОТКИ КОД
 [shot kod](https://github.com/as310788/job4j_elementary/blob/master/images/shot%20kod.png)
+20. Прохоидили как правильно писать логическое отрицание.4.3.3. Логическое отрицание ! [#334072 #216814]
+[logic otricanie](https://github.com/as310788/job4j_elementary/blob/master/images/logicnot2.png)
