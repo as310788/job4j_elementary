@@ -40,3 +40,5 @@
 [shot kod](https://github.com/as310788/job4j_elementary/blob/master/images/shot%20kod.png)
 20. Прохоидили как правильно писать логическое отрицание.4.3.3. Логическое отрицание ! [#334072 #216814]
 [logic otricanie](https://github.com/as310788/job4j_elementary/blob/master/images/logicnot2.png)
+21. Измеряли треугольники выводили тесты 4.3.5. Множественное логическое выражение И [#9461]
+[treugolnic](https://github.com/as310788/job4j_elementary/blob/master/images/treugolnic.png)
