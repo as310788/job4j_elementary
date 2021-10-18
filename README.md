@@ -42,3 +42,5 @@
 [logic otricanie](https://github.com/as310788/job4j_elementary/blob/master/images/logicnot2.png)
 21. Измеряли треугольники выводили тесты 4.3.5. Множественное логическое выражение И [#9461]
 [treugolnic](https://github.com/as310788/job4j_elementary/blob/master/images/treugolnic.png)
+22. проходим как ходит слон в шахматах 4.3.6. Math.abs [#373616]
+[slon shahmat](https://github.com/as310788/job4j_elementary/blob/master/images/schahmati.png)
