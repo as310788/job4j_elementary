@@ -45,5 +45,6 @@
 22. 
 23. Здесь решали вопрос как с играть слоном еле допер как это сделать 4.3.6.Math.abs[#373616]
 [play shamat](https://github.com/as310788/job4j_elementary/blob/master/images/play%20che.png)
-24. проходили if и else взаимодействие между собой 4.4. Вложенный оператор if else [#190]
-[if else](https://github.com/as310788/job4j_elementary/blob/master/images/delenie%20na%203.png)
+24. 
+25. if if и else else взаимодействие между собой Вложенный оператор if else [#190]  if else
+[if if else else]()
