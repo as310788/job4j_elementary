@@ -50,4 +50,4 @@
 [if if else else]()
 26. 
 27. определяли правильность idea 4.5. Отладка программы в IDEA [#159464] god
-[idea program](https://github.com/as310788/job4j_elementary/blob/master/images/max%203.png)
+[idea program](https://github.com/as310788/job4j_elementary/blob/master/images/resultat%20max.png)
