@@ -53,3 +53,5 @@
 [idea program](https://github.com/as310788/job4j_elementary/blob/master/images/resultat%20max.png)
 28.week оператор swith, break
 [swith operator](https://github.com/as310788/job4j_elementary/blob/master/images/week.png)
+28. Изучали новое написание SWiTH 4.6.2. Switch - matcher [#334071]
+[Switch matcher](https://github.com/as310788/job4j_elementary/blob/master/images/day%20week.png)
