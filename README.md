@@ -51,5 +51,5 @@
 26. 
 27. определяли правильность idea 4.5. Отладка программы в IDEA [#159464] god
 [idea program](https://github.com/as310788/job4j_elementary/blob/master/images/resultat%20max.png)
-28. Оператор 4.6.1. Switch [#334070]
-[switch](https://github.com/as310788/job4j_elementary/blob/master/images/the%20day%20week.png)
+28.week оператор swith, break
+[swith operator](https://github.com/as310788/job4j_elementary/blob/master/images/week.png)
