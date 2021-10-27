@@ -61,3 +61,5 @@
 [Counter](https://github.com/as310788/job4j_elementary/blob/master/images/Counter.png)
 31. Факториал программа.5.2. [#193]
 [factorial](https://github.com/as310788/job4j_elementary/blob/master/images/factorial.png)
+32. Создавали шахматную доску 5.3. Построить шахматную доску в псевдографике. [#13559]
+[chess board](https://github.com/as310788/job4j_elementary/blob/master/images/CHESS%20Board.png)
