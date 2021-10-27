@@ -59,3 +59,5 @@
 [loop](https://github.com/as310788/job4j_elementary/blob/master/images/LoopFor.png)
 30. Пример работы с циклами Counter 5.0.1. Сумма чисел. [#226416]
 [Counter](https://github.com/as310788/job4j_elementary/blob/master/images/Counter.png)
+31. Факториал программа.5.2. [#193]
+[factorial](https://github.com/as310788/job4j_elementary/blob/master/images/factorial.png)
