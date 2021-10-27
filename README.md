@@ -57,3 +57,5 @@
 [Switch matcher](https://github.com/as310788/job4j_elementary/blob/master/images/day%20week.png)
 29. Изучаем работу циклов 5.0. Цикл for. Определение. [#3572]
 [loop](https://github.com/as310788/job4j_elementary/blob/master/images/LoopFor.png)
+30. Пример работы с циклами Counter 5.0.1. Сумма чисел. [#226416]
+[Counter](https://github.com/as310788/job4j_elementary/blob/master/images/Counter.png)
