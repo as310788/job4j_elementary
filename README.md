@@ -55,3 +55,5 @@
 [swith operator](https://github.com/as310788/job4j_elementary/blob/master/images/week.png)
 28. Изучали новое написание SWiTH 4.6.2. Switch - matcher [#334071]
 [Switch matcher](https://github.com/as310788/job4j_elementary/blob/master/images/day%20week.png)
+29. Изучаем работу циклов 5.0. Цикл for. Определение. [#3572]
+[loop](https://github.com/as310788/job4j_elementary/blob/master/images/LoopFor.png)
