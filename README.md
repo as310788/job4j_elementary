@@ -63,3 +63,5 @@
 [factorial](https://github.com/as310788/job4j_elementary/blob/master/images/factorial.png)
 32. Создавали шахматную доску 5.3. Построить шахматную доску в псевдографике. [#13559]
 [chess board](https://github.com/as310788/job4j_elementary/blob/master/images/CHESS%20Board.png)
+33. 5.1. Подсчет суммы чётных чисел в диапазоне [#192]
+[counter](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%9F%D0%BE%D0%B4%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%83%D0%BC%D0%BC%D1%8B%20%D1%87%D1%91%D1%82%D0%BD%D1%8B%D1%85.png)
