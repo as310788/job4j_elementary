@@ -69,3 +69,5 @@
 [fitness](https://github.com/as310788/job4j_elementary/blob/master/images/fitness.png)
 35. Оператор прерывания цикла - break 5.5. Простое число [#171694]
 [break for](https://github.com/as310788/job4j_elementary/blob/master/images/chekprime%20number.png)
+36. тест простые числа5.5. Простое число [#171694 #221699]
+[test chisla](https://github.com/as310788/job4j_elementary/blob/master/images/test%20prostie%20chisla.png)
