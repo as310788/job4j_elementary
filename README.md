@@ -67,3 +67,5 @@
 [counter](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%9F%D0%BE%D0%B4%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%83%D0%BC%D0%BC%D1%8B%20%D1%87%D1%91%D1%82%D0%BD%D1%8B%D1%85.png)
 34. расчет протеиновой диеты домирирование Ивана над Николаем 5.4. Протеиновая диета [#156313]
 [fitness](https://github.com/as310788/job4j_elementary/blob/master/images/fitness.png)
+35. Оператор прерывания цикла - break 5.5. Простое число [#171694]
+[break for](https://github.com/as310788/job4j_elementary/blob/master/images/chekprime%20number.png)
