@@ -58,9 +58,9 @@
 29. Изучаем работу циклов 5.0. Цикл for. Определение. [#3572]
 [loop](https://github.com/as310788/job4j_elementary/blob/master/images/LoopFor.png)
 30. Пример работы с циклами Counter 5.0.1. Сумма чисел. [#226416]
-[Counter](https://github.com/as310788/job4j_elementary/blob/master/images/Counter.png)
-31. Факториал программа.5.2. [#193]
-[factorial](https://github.com/as310788/job4j_elementary/blob/master/images/factorial.png)
+31. 
+5.2. Создать программу, вычисляющую факториал. [#193 #221170]
+[Factorial2](https://github.com/as310788/job4j_elementary/blob/master/images/factorial%202.png)
 32. Создавали шахматную доску 5.3. Построить шахматную доску в псевдографике. [#13559]
 [chess board](https://github.com/as310788/job4j_elementary/blob/master/images/CHESS%20Board.png)
 33. 5.1. Подсчет суммы чётных чисел в диапазоне [#192]
