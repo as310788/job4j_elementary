@@ -78,3 +78,5 @@
 [prostie chisla10](https://github.com/as310788/job4j_elementary/blob/master/images/prime%20number%2010.png)
 39. тест к простые числа
 [test prostie chisla](https://github.com/as310788/job4j_elementary/blob/master/images/test%20prostie%20chisla2.png)
+40. расчет ипотеки 5.7. Ипотека5.7. Ипотека [#156315]
+[ipoteka1](https://github.com/as310788/job4j_elementary/blob/master/images/ipoteka.png)
