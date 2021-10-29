@@ -73,7 +73,8 @@
 [test chisla](https://github.com/as310788/job4j_elementary/blob/master/images/test%20prostie%20chisla.png)
 37. тест протеиновая диета5.4. Протеиновая диета [#156313 #221679]
 [test fitness](https://github.com/as310788/job4j_elementary/blob/master/images/fitnes%20test.png)
-38. 5.6. Простые числа [#156314]
-[prostie chisla2](https://github.com/as310788/job4j_elementary/blob/master/images/prostie%20chisla2.png)
+38. 
+    5.6. Простые числа [#156314 #221998]
+[prostie chisla10](https://github.com/as310788/job4j_elementary/blob/master/images/prime%20number%2010.png)
 39. тест к простые числа
 [test prostie chisla](https://github.com/as310788/job4j_elementary/blob/master/images/test%20prostie%20chisla2.png)
