@@ -75,3 +75,5 @@
 [test fitness](https://github.com/as310788/job4j_elementary/blob/master/images/fitnes%20test.png)
 38. 5.6. Простые числа [#156314]
 [prostie chisla2](https://github.com/as310788/job4j_elementary/blob/master/images/prostie%20chisla2.png)
+39. тест к простые числа
+[test prostie chisla](https://github.com/as310788/job4j_elementary/blob/master/images/test%20prostie%20chisla2.png)
