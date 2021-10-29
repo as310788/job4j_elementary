@@ -80,5 +80,6 @@
 [test prostie chisla](https://github.com/as310788/job4j_elementary/blob/master/images/test%20prostie%20chisla2.png)
 40. расчет ипотеки 5.7. Ипотека5.7. Ипотека [#156315]
 [ipoteka1](https://github.com/as310788/job4j_elementary/blob/master/images/ipoteka.png)
-41. тест ипотека
-[testipoteka](https://github.com/as310788/job4j_elementary/blob/master/images/test%20ipoteka.png)
+41. 
+42. тест ипотека
+[testipotek](https://github.com/as310788/job4j_elementary/blob/master/images/ip2.png)
