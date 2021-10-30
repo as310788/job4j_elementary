@@ -84,3 +84,5 @@
 [ipoteka dounload](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.png)
 42. 5.9. Крест в псевдографике. [#177182]
 [page krest](https://github.com/as310788/job4j_elementary/blob/master/images/kartinka.png)
+43. 5.9.1. Генерация конструкций в IDEA [#279134]
+[generation](https://github.com/as310788/job4j_elementary/blob/master/images/generation.png)
