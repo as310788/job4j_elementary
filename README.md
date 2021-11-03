@@ -90,3 +90,5 @@
 [massiv](https://github.com/as310788/job4j_elementary/blob/master/images/massiv.png)
 45. узнаем размер массива lenght
 [lenght](https://github.com/as310788/job4j_elementary/blob/master/images/lenght.png)
+46. заполнение массива и вывод на консоль
+[zapolnenie massiva](https://github.com/as310788/job4j_elementary/blob/master/images/zapolnenie%20massiva.png)
