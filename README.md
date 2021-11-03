@@ -86,3 +86,5 @@
 [page krest](https://github.com/as310788/job4j_elementary/blob/master/images/kartinka.png)
 43. 5.9.1. Генерация конструкций в IDEA [#279134]
 [generation](https://github.com/as310788/job4j_elementary/blob/master/images/generation.png)
+44. 6.0.1. Объявление массива. [#3613]
+[massiv](https://github.com/as310788/job4j_elementary/blob/master/images/massiv.png)
