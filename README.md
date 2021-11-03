@@ -88,3 +88,5 @@
 [generation](https://github.com/as310788/job4j_elementary/blob/master/images/generation.png)
 44. 6.0.1. Объявление массива. [#3613]
 [massiv](https://github.com/as310788/job4j_elementary/blob/master/images/massiv.png)
+45. узнаем размер массива lenght
+[lenght](https://github.com/as310788/job4j_elementary/blob/master/images/lenght.png)
