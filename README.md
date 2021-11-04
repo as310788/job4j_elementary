@@ -106,3 +106,5 @@
 [proverka](https://github.com/as310788/job4j_elementary/blob/master/images/proverka.png)
 54. проверка 2
 [proverka2](https://github.com/as310788/job4j_elementary/blob/master/images/proverka%202.png)
+55. 6.2. Упорядочить массив. [#4441]
+[porajdok massiv](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%A3%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D1%87%D0%B8%D1%82%D1%8C%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2.png)
