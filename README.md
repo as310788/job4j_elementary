@@ -97,5 +97,6 @@
 [massiv and for](https://github.com/as310788/job4j_elementary/blob/master/images/massiv%20and%20for.png)
 49. изучаем цикл for each
 [for each](https://github.com/as310788/job4j_elementary/blob/master/images/%D1%86%D0%B8%D0%BA%D0%B4%20for%20each.png)
-50. 6.0.4. Заполнить массив степенями чисел. [#33488]
-[square](https://github.com/as310788/job4j_elementary/blob/master/images/public%20class%20Square.png)
+50. 
+51. 6.0.4.Заполнение массива числами.
+[square in the two](https://github.com/as310788/job4j_elementary/blob/master/images/zoplnineni%20massiva.png)
