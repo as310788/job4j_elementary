@@ -95,3 +95,5 @@
 47. 
 48. 6.0.3. Массивы и вставили в него цикл for[#226665]
 [massiv and for](https://github.com/as310788/job4j_elementary/blob/master/images/massiv%20and%20for.png)
+49. изучаем цикл for each
+[for each](https://github.com/as310788/job4j_elementary/blob/master/images/%D1%86%D0%B8%D0%BA%D0%B4%20for%20each.png)
