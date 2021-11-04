@@ -100,3 +100,5 @@
 50. 
 51. 6.0.4.Заполнение массива числами.
 [square in the two](https://github.com/as310788/job4j_elementary/blob/master/images/zoplnineni%20massiva.png)
+52. массивы в тестах
+[test massiv](https://github.com/as310788/job4j_elementary/blob/master/images/square%20test.png)
