@@ -104,3 +104,5 @@
 [test massiv](https://github.com/as310788/job4j_elementary/blob/master/images/square%20test.png)
 53. проверка
 [proverka](https://github.com/as310788/job4j_elementary/blob/master/images/proverka.png)
+54. проверка 2
+[proverka2](https://github.com/as310788/job4j_elementary/blob/master/images/proverka%202.png)
