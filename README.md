@@ -92,5 +92,6 @@
 [lenght](https://github.com/as310788/job4j_elementary/blob/master/images/lenght.png)
 46. заполнение массива и вывод на консоль
 [zapolnenie massiva](https://github.com/as310788/job4j_elementary/blob/master/images/zapolnenie%20massiva.png)
-47. 6.0.3. Массивы и цикл for. [#226665]
-[massiv for](https://github.com/as310788/job4j_elementary/blob/master/images/znacheniaj.png)
+47. 
+48. 6.0.3. Массивы и вставили в него цикл for[#226665]
+[massiv and for](https://github.com/as310788/job4j_elementary/blob/master/images/massiv%20and%20for.png)
