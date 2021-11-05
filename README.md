@@ -100,8 +100,9 @@
 50. 
 51. 6.0.4.Заполнение массива числами.
 [square in the two](https://github.com/as310788/job4j_elementary/blob/master/images/zoplnineni%20massiva.png)
-52. массивы в тестах
-[test massiv](https://github.com/as310788/job4j_elementary/blob/master/images/square%20test.png)
+52.
+53. массивы в тестах задание должно содержать те значения которые буду выводиться
+[test2 massiv2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20massiv2.png)
 53. проверка
 [proverka](https://github.com/as310788/job4j_elementary/blob/master/images/proverka.png)
 54. проверка 2
