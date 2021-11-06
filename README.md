@@ -114,4 +114,6 @@
 [search](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8.png)
 59. 6.2.2. Переставить элементы массива [#226795]
 [change massiv](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0.png)
+60. тест для поменять местами элементы массива
+[test change](https://github.com/as310788/job4j_elementary/blob/master/images/test%20switcharay.png)
 
