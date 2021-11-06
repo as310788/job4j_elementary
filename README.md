@@ -101,15 +101,17 @@
 51. 
 52. 6.04.Заполнить массив степенями чисел.[33488#224532]
 [squaretwo](https://github.com/as310788/job4j_elementary/blob/master/images/%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2.png)
-52. 
-53. массивы в тестах задание должно содержать те значения которые буду выводиться
+53. 
+54. массивы в тестах задание должно содержать те значения которые буду выводиться
 [test2 massiv2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20massiv2.png)
-54. проверка
+55. проверка
 [proverka](https://github.com/as310788/job4j_elementary/blob/master/images/proverka.png)
-55. проверка 2
+56. проверка 2
 [proverka2](https://github.com/as310788/job4j_elementary/blob/master/images/proverka%202.png)
-56. 6.2. Упорядочить массив. [#4441]
+57. 6.2. Упорядочить массив. [#4441]
 [porajdok massiv](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%A3%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D1%87%D0%B8%D1%82%D1%8C%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2.png)
-57. поиск ошибки 6.2.1. Выход за границу массива. [#226794]
+58. поиск ошибки 6.2.1. Выход за границу массива. [#226794]
 [search](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8.png)
+59. 6.2.2. Переставить элементы массива [#226795]
+[change massiv](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0.png)
 
