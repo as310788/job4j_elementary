@@ -120,8 +120,9 @@
 [perevorot massiva](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D1%80%D0%BE%D1%82%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0.png)
 62. тест для переворота
 [test perevorot](https://github.com/as310788/job4j_elementary/blob/master/images/%D1%82%D0%B5%D1%81%D1%82%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0.png)
-63. 6.3. Массив заполнен true или false [#53857]
-[zapolnenie massiva](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%9C%D0%B0%D1%81%D1%81%D0%B8%D0%B2%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%20true%20%D0%B8%D0%BB%D0%B8%20false.png)
+63. 6.3
+64. 6.3. Массив заполнен true или false [#53857 #226364]
+[massiva true false](https://github.com/as310788/job4j_elementary/blob/master/images/6.3.%20%D0%9C%D0%B0%D1%81%D1%81%D0%B8%D0%B2%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%20true.png)
 64. сделали тест CHECK
 [test Check](https://github.com/as310788/job4j_elementary/blob/master/images/test%20chek.png)
 
