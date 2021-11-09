@@ -123,6 +123,8 @@
 63. 6.3
 64. 6.3. Массив заполнен true или false [#53857 #226364]
 [massiva true false](https://github.com/as310788/job4j_elementary/blob/master/images/6.3.%20%D0%9C%D0%B0%D1%81%D1%81%D0%B8%D0%B2%20%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%20true.png)
-64. сделали тест CHECK
+65. сделали тест CHECK
 [test Check](https://github.com/as310788/job4j_elementary/blob/master/images/test%20chek.png)
+66. 6.4. Слово начинается с ... [#41585]
+[#41585](https://github.com/as310788/job4j_elementary/blob/master/images/araychar.png)
 
