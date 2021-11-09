@@ -127,4 +127,6 @@
 [test Check](https://github.com/as310788/job4j_elementary/blob/master/images/test%20chek.png)
 66. 6.4. Слово начинается с ... [#41585]
 [#41585](https://github.com/as310788/job4j_elementary/blob/master/images/araychar.png)
+67. test
+68. [testrarychar](https://github.com/as310788/job4j_elementary/blob/master/images/test%20araychar.png)
 
