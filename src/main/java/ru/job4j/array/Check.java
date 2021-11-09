@@ -2,7 +2,7 @@ package ru.job4j.array;
 
 public class Check {
     public static boolean mono(boolean[] data) {
-        for (int i = 0; i < data.length; i++) {
+        for (int i = 1; i < data.length; i++) {
             if (data[0] != data[i]) {
                 return false;
             }
@@ -11,7 +11,7 @@ public class Check {
     }
 
     public static void main(String[] args) {
-            System.out.println(mono(new boolean[]{false, true, true}));
+            System.out.println(mono(new boolean[]{false, true, true, true}));
         }
     }
 
