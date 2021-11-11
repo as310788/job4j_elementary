@@ -138,5 +138,6 @@
 [endwswith - i](https://github.com/as310788/job4j_elementary/blob/master/images/%D0%B7%D0%B0%D0%BA%D0%B0%D0%BD%D1%87%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20EndsWith%20-i.png)
 70. тест endswith
 [test endswith](https://github.com/as310788/job4j_elementary/blob/master/images/test%20endswith.png)
-    6.5. Поиск индекса в диапазоне. [#156318 #227316]
-[search diapozon2](https://github.com/as310788/job4j_elementary/blob/master/images/findloop.png)
+71. 
+    6.5. 6.5. Поиск индекса в диапазоне. [#156318 #227316]
+[searchdiapozon2](https://github.com/as310788/job4j_elementary/blob/master/images/findloop2.png)
