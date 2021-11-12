@@ -3,7 +3,7 @@ package ru.job4j.array;
 public class Min {
     public static int findMin(int[] array) {
         int min = array[0];
-        for (int index = 0; index < array.length; index++) {
+        for (int index = 1; index < array.length; index++) {
             if (min > array[index]) {
                 min = array[index];
             }
@@ -12,7 +12,7 @@ public class Min {
     }
 
     public static void main(String[] args) {
-        System.out.println(findMin(new int[]{0, 3, 5, 6, 7}));
+        System.out.println(findMin(new int[]{9, 3, 5, 6, 7}));
     }
 }
 
