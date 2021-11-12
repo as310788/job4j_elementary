@@ -143,8 +143,8 @@
 [searchdiapozon2](https://github.com/as310788/job4j_elementary/blob/master/images/findloop2.png)
 72. test2
 [test finloop2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20finfloop2.png)
-73. 6.5.1. Поиск минимального числа в массиве. [#179803]
-[findmin](https://github.com/as310788/job4j_elementary/blob/master/images/findmin.png)
+73. 6.5.1. Поиск минимального числа в массиве. [#179803 #227358]
+[findmin2](https://github.com/as310788/job4j_elementary/blob/master/images/findMin%202.png)
 74. test findMin
 [test findMin](https://github.com/as310788/job4j_elementary/blob/master/images/test%20findMin.png)
 75. 6.5.2. Поиск минимума в диапазоне. [#179804]
