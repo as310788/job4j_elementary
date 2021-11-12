@@ -149,5 +149,7 @@
 [test findMin](https://github.com/as310788/job4j_elementary/blob/master/images/test%20findMin.png)
 75 6.5.2. Поиск минимума в диапазоне. [#179804 #227654]
 [minimum diapozon 2](https://github.com/as310788/job4j_elementary/commit/7d8f0be7c86eed605c0fe398b56985287859d1c9)
-76. тест минимума в диапозоне
+75. тест минимума в диапозоне
 [test minimum diapozon](https://github.com/as310788/job4j_elementary/blob/master/images/test%20minimum%20diapozon.png)
+76. 6.5.3. Сортировка выборкой. [#156320]
+[metod sort](https://github.com/as310788/job4j_elementary/blob/master/images/metod%20sort.png)
