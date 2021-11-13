@@ -153,3 +153,7 @@
 [test minimum diapozon](https://github.com/as310788/job4j_elementary/blob/master/images/test%20minimum%20diapozon.png)
 76. 6.5.3. Сортировка выборкой. [#156320]
 [metod sort](https://github.com/as310788/job4j_elementary/blob/master/images/metod%20sort.png)
+77. test sort
+[test sort](https://github.com/as310788/job4j_elementary/blob/master/images/test%20sort.png)
+78. 6.6.1. Двумерный массив [#226796]
+[dvumerni massiv](https://github.com/as310788/job4j_elementary/blob/master/images/dvumerni%20masiiv.png)
