@@ -163,3 +163,5 @@
 [matrixsum](https://github.com/as310788/job4j_elementary/blob/master/images/MatrixSum.png)
 81. TEST MATRIXSUM
 [matrixsum test](https://github.com/as310788/job4j_elementary/blob/master/images/test%20matrixum.png)
+82. 6.6.3. Двухмерный массив. If. [#306727]
+[dvumerni massiv](https://github.com/as310788/job4j_elementary/blob/master/images/dvumerni%20massiv2.png)
