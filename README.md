@@ -159,3 +159,5 @@
 [dvumerni massiv](https://github.com/as310788/job4j_elementary/blob/master/images/dvumerni%20masiiv.png)
 79. 6.6.1.Размер элемента двухмерного массива.[#333583]
 [razmer dvumernogo massiva2](https://github.com/as310788/job4j_elementary/blob/master/images/razmer%20dvumernogo%20massiva2.png)
+80. 6.6.2. Двухмерный массив. Циклы. [#306725]
+[matrixsum](https://github.com/as310788/job4j_elementary/blob/master/images/MatrixSum.png)
