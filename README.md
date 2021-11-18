@@ -167,3 +167,7 @@
 [dvumerni massiv](https://github.com/as310788/job4j_elementary/blob/master/images/dvumerni%20massiv2.png)
 83. test dvuhmermi massiv
 [test dvuhmerni massiv](https://github.com/as310788/job4j_elementary/blob/master/images/test%20dvuhmerni%20massiv.png)
+84. составляли таблицу умножения/6.6.8. Двухмерный массив. Таблица умножения. [#33491]
+[tablica umnogenia](https://github.com/as310788/job4j_elementary/blob/master/images/tablica%20umnoginia.png)
+
+
