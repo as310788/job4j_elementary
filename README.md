@@ -180,5 +180,7 @@
 [monovertial](https://github.com/as310788/job4j_elementary/blob/master/images/monovertical2.png)
 88. тест моновертикаль
 [test monovertical](https://github.com/as310788/job4j_elementary/blob/master/images/test%20monovertical.png)
+89. 6.7.2. Моно столбец в матрице. [#214127 #230325]
+[test false](https://github.com/as310788/job4j_elementary/blob/master/images/test%20false.png)
 
 
