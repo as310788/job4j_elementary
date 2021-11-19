@@ -176,5 +176,7 @@
 [MATRIXCHECK](https://github.com/as310788/job4j_elementary/blob/master/images/MatrixCheck.png)
 86. тест MATRIXCHECK
 [testMatrixcheck](https://github.com/as310788/job4j_elementary/blob/master/images/test%20matrixcheck.png)
+87. 6.7.2. Моно столбец в матрице. [#214127]
+[monovertial](https://github.com/as310788/job4j_elementary/blob/master/images/monovertical2.png)
 
 
