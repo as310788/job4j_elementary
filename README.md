@@ -172,5 +172,7 @@
 [tablica umnogenia size](https://github.com/as310788/job4j_elementary/blob/master/images/table%20size.png)
 84. тест для таблицы умножения
 [test table umnogenia](https://github.com/as310788/job4j_elementary/blob/master/images/test%20table%20umnoginia.png)
+85. 6.7.1. Моно строка в матрице. [#214126]
+[MATRIXCHECK](https://github.com/as310788/job4j_elementary/blob/master/images/MatrixCheck.png)
 
 
