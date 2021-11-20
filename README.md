@@ -186,5 +186,7 @@
 [test false2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20false2.png)
 91. 6.7.3. Массив из диагонали матрицы. [#214128]
 [extractDiagonal](https://github.com/as310788/job4j_elementary/blob/master/images/extractDiagonal.png)
+92. тест диагональ массив
+[test extradiagonal](https://github.com/as310788/job4j_elementary/blob/master/images/test%20extradiagonal.png)
 
 
