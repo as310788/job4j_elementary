@@ -190,5 +190,7 @@
 [test extradiagonal](https://github.com/as310788/job4j_elementary/blob/master/images/test%20extradiagonal.png)
 93. 6.7.4. Выигрышные комбинации в сокобан [#53859]
 [socoban](https://github.com/as310788/job4j_elementary/blob/master/images/socoban.png)
+94. test socoban
+[test socoban](https://github.com/as310788/job4j_elementary/blob/master/images/test%20socoban.png)
 
 
