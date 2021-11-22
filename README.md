@@ -193,8 +193,9 @@
 [socoban2](https://github.com/as310788/job4j_elementary/blob/master/images/socoban2.png)
 95. test socoban
 [test socoban](https://github.com/as310788/job4j_elementary/blob/master/images/test%20socoban.png)
-96. 6.8. Дефрагментация массива [#225]
-[defragment](https://github.com/as310788/job4j_elementary/blob/master/images/Defragment.png)
+96. 
+96.6.8. Дефрагментация массива [#225 #231439]
+[defragment3](https://github.com/as310788/job4j_elementary/blob/master/images/defragment3.png)
 97. Тест defragment
 [test defragment](https://github.com/as310788/job4j_elementary/blob/master/images/test%20defragment.png)
 
