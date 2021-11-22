@@ -198,5 +198,7 @@
 [defragment3](https://github.com/as310788/job4j_elementary/blob/master/images/defragment3.png)
 97. Тест defragment
 [test defragment](https://github.com/as310788/job4j_elementary/blob/master/images/test%20defragment.png)
+98. 6.9. Жадный алгоритм. Сдача в кофе машине [#34741]
+[coffe machine](https://github.com/as310788/job4j_elementary/blob/master/images/cofe%20machine.png)
 
 
