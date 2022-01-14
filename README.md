@@ -202,5 +202,7 @@
 [coffe machine](https://github.com/as310788/job4j_elementary/blob/master/images/cofe%20machine.png)
 99. тест кофе машина
 [test machine](https://github.com/as310788/job4j_elementary/blob/master/images/test%20machine.png)
+100. 2.1. Рефакторинг - Расстояние между точками. [#122587 #251039]
+[refaktor point](https://github.com/as310788/job4j_elementary/blob/master/images/refaktoring%20point.png)
 
 
