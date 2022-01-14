@@ -20,8 +20,8 @@ public class Point {
 
     public static void main(String[] args) {
         Point a = new Point(0, 0);
-        Point b = new Point(0, 2);
-        double dist = a.distance(b);
+        Point c = new Point(0, 2);
+        double dist = a.distance(c);
         System.out.println(dist);
     }
 }
