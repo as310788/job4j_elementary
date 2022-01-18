@@ -204,5 +204,7 @@
 [test machine](https://github.com/as310788/job4j_elementary/blob/master/images/test%20machine.png)
 100. 2.1. Рефакторинг - Расстояние между точками. [#122587 #251039]
 [point test](https://github.com/as310788/job4j_elementary/blob/master/images/point%20test.png)
+101. рефакторинг расстояние между точками
+[point refakt](https://github.com/as310788/job4j_elementary/blob/master/images/point%20tochka.png)
 
 
