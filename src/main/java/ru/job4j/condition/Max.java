@@ -1,13 +1,21 @@
 package ru.job4j.condition;
 
 public class Max {
+    public int max(int first, int second) {
 
-    public static int max(int left, int right) {
-        return left > right ? left : right;
+        return first > second ? first : second;
+    }
+
+    public int max(int first, int second, int third) {
+        return max(first, max(second, third));
+    }
+
+    public int max(int first, int second, int third, int four) {
+        return max(first, second, max(third, four));
     }
 
     public static void main(String[] args) {
-        int rsl = Max.max(100, 20);
+        int rsl = new Max().max(100, 358, 5, 9999);
         System.out.println(rsl);
     }
 }
