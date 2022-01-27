@@ -15,7 +15,7 @@ public class Max {
     }
 
     public static void main(String[] args) {
-        int rsl = new Max().max(100, 358, 5, 9999);
+        int rsl = new Max().max(10, 358, 5, 99);
         System.out.println(rsl);
     }
 }
