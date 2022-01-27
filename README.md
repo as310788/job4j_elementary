@@ -209,3 +209,6 @@
 102. 3. Перегрузить метод max для трех чисел [#122644]
 [load max](https://github.com/as310788/job4j_elementary/blob/master/images/refactor%20max.png)
 
+103. Перегрузить метод max для трех чисел[#122644]
+[test max](https://github.com/as310788/job4j_elementary/blob/master/images/test%20max.png)
+
