@@ -206,9 +206,8 @@
 [point test](https://github.com/as310788/job4j_elementary/blob/master/images/point%20test.png)
 101. рефакторинг расстояние между точками
 [point refakt](https://github.com/as310788/job4j_elementary/blob/master/images/point%20tochka.png)
-102. 3. Перегрузить метод max для трех чисел [#122644]
-[load max](https://github.com/as310788/job4j_elementary/blob/master/images/refactor%20max.png)
-
+102.3. Перегрузить метод max для трех чисел [#122644 #256555]
+[loadmax](https://github.com/as310788/job4j_elementary/blob/master/images/refactor%20max.png)
 103. Перегрузить метод max для трех чисел[#122644]
-[test max](https://github.com/as310788/job4j_elementary/blob/master/images/test%20max.png)
+[testmax](https://github.com/as310788/job4j_elementary/blob/master/images/test%20max.png)
 
