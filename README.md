@@ -212,4 +212,5 @@
 [testmax](https://github.com/as310788/job4j_elementary/blob/master/images/test%20max.png)
 103. 4. Расстояние между точками в трехмерном пространстве. [#122643]
 [loading poin2](https://github.com/as310788/job4j_elementary/blob/master/images/loading%20point2.png)
-
+104.4. Расстояние между точками в трехмерном пространстве.TEST [#122643]
+[test load point2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20load%20point2.png)
