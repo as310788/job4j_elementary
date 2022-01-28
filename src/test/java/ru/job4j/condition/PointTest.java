@@ -29,4 +29,20 @@ public class PointTest {
         double expected = 0.0;
         Assert.assertEquals(expected, a.distance(b), 0.1);
     }
+
+    @Test
+    public void whenX0Y0Z8AndX0Y2Z9Then2() {
+        Point c = new Point(0, 0, 8);
+        Point d = new Point(0, 2, 9);
+        double expected = 2.0;
+        Assert.assertEquals(expected, c.distance(d), 0.0001);
+    }
+
+    @Test
+    public void whenX1Y1Z1AndX1Y1Z1Then0() {
+        Point c = new Point(1, 1, 1);
+        Point d = new Point(1, 1, 1);
+        double expected = 0.0;
+        Assert.assertEquals(expected, c.distance(d), 0.1);
+    }
 }
