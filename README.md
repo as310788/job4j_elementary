@@ -214,5 +214,5 @@
 [loading poin2](https://github.com/as310788/job4j_elementary/blob/master/images/loading%20point2.png)
 1044. Расстояние между точками в трехмерном пространстве.test [#122643 #257109]
 [test loadpoint](https://github.com/as310788/job4j_elementary/blob/master/images/test%20load%20point2.png)
-104. 5.1.Зона видимости переменных [#180147]
-[zona2 view](https://github.com/as310788/job4j_elementary/blob/master/images/zona%20view.png)
+104. 5.1.Зона видимости переменных [#180147 #257121]
+[zona view](https://github.com/as310788/job4j_elementary/blob/master/images/zona%20view.png)
