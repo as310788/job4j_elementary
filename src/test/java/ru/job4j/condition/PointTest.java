@@ -34,8 +34,8 @@ public class PointTest {
     public void whenX0Y0Z8AndX0Y2Z9Then2() {
         Point c = new Point(0, 0, 8);
         Point d = new Point(0, 2, 9);
-        double expected = 2.0;
-        Assert.assertEquals(expected, c.distance(d), 0.0001);
+        double expected = 2.23606;
+        Assert.assertEquals(expected, c.distance3d(d), 0.00001);
     }
 
     @Test
@@ -43,6 +43,6 @@ public class PointTest {
         Point c = new Point(1, 1, 1);
         Point d = new Point(1, 1, 1);
         double expected = 0.0;
-        Assert.assertEquals(expected, c.distance(d), 0.1);
+        Assert.assertEquals(expected, c.distance3d(d), 0.1);
     }
 }
