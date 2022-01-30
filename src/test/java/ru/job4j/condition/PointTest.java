@@ -31,11 +31,11 @@ public class PointTest {
     }
 
     @Test
-    public void whenX0Y0Z8AndX0Y2Z9Then2() {
+    public void whenX0Y0Z8AndX0Y2Z9Then2dot24() {
         Point c = new Point(0, 0, 8);
         Point d = new Point(0, 2, 9);
-        double expected = 2.23606;
-        Assert.assertEquals(expected, c.distance3d(d), 0.00001);
+        double expected = 2.24;
+        Assert.assertEquals(expected, c.distance3d(d), 0.01);
     }
 
     @Test
