@@ -212,7 +212,9 @@
 [testmax](https://github.com/as310788/job4j_elementary/blob/master/images/test%20max.png)
 103. 4. Расстояние между точками в трехмерном пространстве. [#122643]
 [loading poin2](https://github.com/as310788/job4j_elementary/blob/master/images/loading%20point2.png)
-1044. Расстояние между точками в трехмерном пространстве.[#122643 #257109]
+104. Расстояние между точками в трехмерном пространстве.[#122643 #257109]
 [test loadpoint2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20load%20point2.png)
-104. 5.1.Зона видимости переменных [#180147 #257121]
+105. 5.1.Зона видимости переменных [#180147 #257121]
 [zona view](https://github.com/as310788/job4j_elementary/blob/master/images/zona%20view.png)
+106. 6.9. String - это массив [#504884]
+[string massiv](https://github.com/as310788/job4j_elementary/commit/2ed98b50e8945a0428aedc0f7b9799b3d06497c4)
