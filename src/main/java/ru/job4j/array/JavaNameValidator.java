@@ -4,17 +4,14 @@ public class JavaNameValidator {
 
     public static boolean isNameValid(String name) {
 
-    boolean rsl = !name.isEmpty() && isLowerLatinLetter(name.codePointAt(0));
-        if (rsl) {
-        for (int i = 0; i < name.length(); i++) {
+        for (int i = 1; i < name.length(); i++) {
             int code = name.codePointAt(i);
             if (!(Character.isDigit(code) || isSpecialSymbol(code)
                     || isUpperLatinLetter(code) || isLowerLatinLetter(code))) {
                 break;
             }
         }
-    }
-        return rsl;
+        return !name.isEmpty() && isLowerLatinLetter(name.codePointAt(0));
 }
 
     public static boolean isSpecialSymbol(int code) {
