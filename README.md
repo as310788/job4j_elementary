@@ -216,5 +216,5 @@
 [test loadpoint2](https://github.com/as310788/job4j_elementary/blob/master/images/test%20load%20point2.png)
 105. 5.1.Зона видимости переменных [#180147 #257121]
 [zona view](https://github.com/as310788/job4j_elementary/blob/master/images/zona%20view.png)
-106. 6.9. String - это массив [#504884 #328442]
-[string massivтест](https://github.com/as310788/job4j_elementary/commit/2ed98b50e8945a0428aedc0f7b9799b3d06497c4)
+106. 6.9. String-это-массив[#504884 #328442]
+[string massiv](https://github.com/as310788/job4j_elementary/commit/2ed98b50e8945a0428aedc0f7b9799b3d06497c4)
